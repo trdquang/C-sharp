@@ -1,0 +1,8 @@
+C:\Users\hoang\AppData\Local\Temporary Projects\lab2_console\bin\Debug\lab2_console.exe
+C:\Users\hoang\AppData\Local\Temporary Projects\lab2_console\bin\Debug\lab2_console.pdb
+C:\Users\hoang\AppData\Local\Temporary Projects\lab2_console\obj\x86\Debug\lab2_console.exe
+C:\Users\hoang\AppData\Local\Temporary Projects\lab2_console\obj\x86\Debug\lab2_console.pdb
+E:\2_BetterThan\6_C#\Lec1_LamQuen\lab2_console\lab2_console\obj\x86\Debug\lab2_console.exe
+E:\2_BetterThan\6_C#\Lec1_LamQuen\lab2_console\lab2_console\obj\x86\Debug\lab2_console.pdb
+E:\2_BetterThan\6_C#\Chuong1_LamQuen\lab2_console\lab2_console\obj\x86\Debug\lab2_console.exe
+E:\2_BetterThan\6_C#\Chuong1_LamQuen\lab2_console\lab2_console\obj\x86\Debug\lab2_console.pdb

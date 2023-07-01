@@ -1,0 +1,7 @@
+C:\Users\hoang\AppData\Local\Temporary Projects\Bai_3_1_PhanSo_WinForm\bin\Debug\Bai_3_1_PhanSo_WinForm.exe
+C:\Users\hoang\AppData\Local\Temporary Projects\Bai_3_1_PhanSo_WinForm\bin\Debug\Bai_3_1_PhanSo_WinForm.pdb
+C:\Users\hoang\AppData\Local\Temporary Projects\Bai_3_1_PhanSo_WinForm\obj\x86\Debug\Bai_3_1_PhanSo_WinForm.Form1.resources
+C:\Users\hoang\AppData\Local\Temporary Projects\Bai_3_1_PhanSo_WinForm\obj\x86\Debug\Bai_3_1_PhanSo_WinForm.Properties.Resources.resources
+C:\Users\hoang\AppData\Local\Temporary Projects\Bai_3_1_PhanSo_WinForm\obj\x86\Debug\Bai_3_1_PhanSo_WinForm.csproj.GenerateResource.Cache
+C:\Users\hoang\AppData\Local\Temporary Projects\Bai_3_1_PhanSo_WinForm\obj\x86\Debug\Bai_3_1_PhanSo_WinForm.exe
+C:\Users\hoang\AppData\Local\Temporary Projects\Bai_3_1_PhanSo_WinForm\obj\x86\Debug\Bai_3_1_PhanSo_WinForm.pdb

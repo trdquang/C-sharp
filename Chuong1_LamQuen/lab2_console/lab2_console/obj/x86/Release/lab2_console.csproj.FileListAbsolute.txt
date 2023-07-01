@@ -1,0 +1,4 @@
+C:\Users\hoang\AppData\Local\Temporary Projects\lab2_console\bin\Release\lab2_console.exe
+C:\Users\hoang\AppData\Local\Temporary Projects\lab2_console\bin\Release\lab2_console.pdb
+C:\Users\hoang\AppData\Local\Temporary Projects\lab2_console\obj\x86\Release\lab2_console.exe
+C:\Users\hoang\AppData\Local\Temporary Projects\lab2_console\obj\x86\Release\lab2_console.pdb

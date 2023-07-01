@@ -1,0 +1,7 @@
+C:\Users\hoang\AppData\Local\Temporary Projects\Bai_1_2_TinhTong_WinForms\bin\Debug\Bai_1_2_TinhTong_WinForms.exe
+C:\Users\hoang\AppData\Local\Temporary Projects\Bai_1_2_TinhTong_WinForms\bin\Debug\Bai_1_2_TinhTong_WinForms.pdb
+C:\Users\hoang\AppData\Local\Temporary Projects\Bai_1_2_TinhTong_WinForms\obj\x86\Debug\Bai_1_2_TinhTong_WinForms.Form1.resources
+C:\Users\hoang\AppData\Local\Temporary Projects\Bai_1_2_TinhTong_WinForms\obj\x86\Debug\Bai_1_2_TinhTong_WinForms.Properties.Resources.resources
+C:\Users\hoang\AppData\Local\Temporary Projects\Bai_1_2_TinhTong_WinForms\obj\x86\Debug\Bai_1_2_TinhTong_WinForms.csproj.GenerateResource.Cache
+C:\Users\hoang\AppData\Local\Temporary Projects\Bai_1_2_TinhTong_WinForms\obj\x86\Debug\Bai_1_2_TinhTong_WinForms.exe
+C:\Users\hoang\AppData\Local\Temporary Projects\Bai_1_2_TinhTong_WinForms\obj\x86\Debug\Bai_1_2_TinhTong_WinForms.pdb
